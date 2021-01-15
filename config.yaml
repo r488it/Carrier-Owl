@@ -3,11 +3,17 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 1
-        resnet: 1
-        object detection: 3
-        segmentation: 3
-        anomaly detection: 1
+        category1:
+                SLACK_ID: SLACK_ID1
+                key:
+                        segmentation: 3
+                        anomaly detection: 1
+        category2:
+                SLACK_ID: SLACK_ID2
+                key:
+                        kaggle: 1
+                        resnet: 1
+
 
 # 通知の閾値
 score_threshold: 0
