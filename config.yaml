@@ -5,12 +5,14 @@ subject: 'cat:cs.*'
 keywords:
         category1:
                 SLACK_ID: SLACK_ID1
+                LINE_TOKEN: LINE_TOKEN1
                 key:
                         object detection: 3
                         segmentation: 3
                         anomaly detection: 1
         category2:
                 SLACK_ID: SLACK_ID2
+                LINE_TOKEN: LINE_TOKEN1
                 key:
                         kaggle: 1
                         resnet: 1
