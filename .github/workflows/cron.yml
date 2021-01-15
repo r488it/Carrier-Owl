@@ -35,6 +35,5 @@ jobs:
           SLACK_ID2: ${{ secrets.SLACK_ID2 }}
           LINE_TOKEN1: ${{ secrets.LINE_TOKEN1 }}
           LINE_TOKEN2: ${{ secrets.LINE_TOKEN2 }}
-          SECRETS: ${{ secrets }}
 
 
