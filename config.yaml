@@ -6,6 +6,7 @@ keywords:
         category1:
                 SLACK_ID: SLACK_ID1
                 key:
+                        object detection: 3
                         segmentation: 3
                         anomaly detection: 1
         category2:
