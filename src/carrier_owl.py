@@ -184,6 +184,7 @@ def main():
 
         slack_id = os.getenv(config['keywords'][category]["SLACK_ID"])
         line_token = os.getenv(config['keywords'][category]["LINE_TOKEN"])
+        print(slack_id)
         notify(results, slack_id, line_token)
 
 
